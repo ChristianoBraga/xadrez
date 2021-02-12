@@ -79,6 +79,7 @@ deve produzir o tabuleiro em
 	  ```
    onde as letras minúsculas denotam as pedras pretas e as maiúsculas
    as brancas. 
+   
    a. O lexema associado à string `e4 e5` deve produzir o seguinte tabuleiro:
       ```
 	  [[r, n, b, q, k, b, n, r],  
@@ -90,6 +91,7 @@ deve produzir o tabuleiro em
 	  [P, P, P,  , P, P, P, P],  
 	  [R, N, B, Q, K, B, N, R]]  
 	  ```
+	  
    c. A função `simula*` quando aplicada à uma _lista_ de lexemas deve
       produzir o tabuleiro resultante da execução dos movimentos
       associados a cada um dos lexemas, sequencialmente.
