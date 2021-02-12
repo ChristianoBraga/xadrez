@@ -65,6 +65,7 @@ deve produzir o tabuleiro em
       https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode.
 	  
 1. Utilize o pacote `pytest` para testar sua implementação. 
+
    a. Por exemplo, o jogo vazio deve produzir o tabuleiro:
       ```
 	  [[r, n, b, q, k, b, n, r],
