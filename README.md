@@ -41,7 +41,7 @@ Por exemplo, a entrada
 
 deve produzir o tabuleiro em
 
-![Exemplo de notação algébrica](board.png "Tabuleiro"){ width=50% }
+![Exemplo de notação algébrica](board.png "Tabuleiro")
 
 ## Instruções
 
