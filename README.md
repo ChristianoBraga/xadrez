@@ -53,6 +53,7 @@ deve produzir o tabuleiro em
      colocada nos lexemas.
    
 1. Implemente um programa `driver.py` que:
+
    a. Leia um arquivo com a descrição de um jogo de xadrez em notação
 	  algébrica;
    a. Invoque o analisador léxico da notação algébrica para xadrez com
