@@ -80,7 +80,7 @@ deve produzir o tabuleiro em
    onde as letras minúsculas denotam as pedras pretas e as maiúsculas
    as brancas. 
    
-   a. O lexema associado à string `e4 e5` deve produzir o seguinte tabuleiro:
+   b. O lexema associado à string `e4 e5` deve produzir o seguinte tabuleiro:
       ```
 	  [[r, n, b, q, k, b, n, r],  
 	  [p, p, p, p,  , p, p, p],  
