@@ -1,9 +1,9 @@
 # Xadrez
 
-Christiano Braga
+Christiano Braga  
 Compiladores 2020.2
 
-Primeiro trabalho computacional
+Primeiro trabalho computacional  
 Data de entrega: 05/03/21
 
 Forma de entrega: GitHub Classroom
