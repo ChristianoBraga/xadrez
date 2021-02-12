@@ -56,12 +56,15 @@ deve produzir o tabuleiro em
 
    a. Leia um arquivo com a descrição de um jogo de xadrez em notação
 	  algébrica;
-   a. Invoque o analisador léxico da notação algébrica para xadrez com
+	  
+   b. Invoque o analisador léxico da notação algébrica para xadrez com
 	  uma string contendo uma descrição algébrica.
-   a. Implemente um função `simula` que dado um lexema modifica a
+	  
+   c. Implemente um função `simula` que dado um lexema modifica a
 	  representação do tabuleiro de xadrez como uma matriz, como
 	  ilustrado abaixo.
-   a. Imprima o tabuleiro resultante utilizando caracteres unicode
+	  
+   d. Imprima o tabuleiro resultante utilizando caracteres unicode
       para peças de xadrez descritos em
       https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode.
 	  
