@@ -4,9 +4,8 @@ Christiano Braga
 Compiladores 2020.2  
 Fevereiro 2021
 
-Primeiro trabalho computacional  
-Data de entrega: 05/03/21
-
+Primeiro trabalho computacional: Análise Léxica  
+Data de entrega: 05/03/21  
 Forma de entrega: GitHub Classroom
 
 ## Introdução 
