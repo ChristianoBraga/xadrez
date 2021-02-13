@@ -1,7 +1,8 @@
 # Xadrez
 
 Christiano Braga  
-Compiladores 2020.2
+Compiladores 2020.2  
+Fevereiro 2021
 
 Primeiro trabalho computacional  
 Data de entrega: 05/03/21
